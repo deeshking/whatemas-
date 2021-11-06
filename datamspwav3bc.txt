@@ -1,7 +1,7 @@
 [
 {
   "theme_server":"Ljaguar",
-  "theme_name":"Sexy 01",
+  "theme_name":"king 1",
   "theme_user":"Gean",
   "theme_date":"mr king",
   "theme_size":"1,2 MB",
