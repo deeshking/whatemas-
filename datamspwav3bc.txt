@@ -3,7 +3,7 @@
   "theme_server":"Ljaguar",
   "theme_name":"Sexy 01",
   "theme_user":"Gean",
-  "theme_date":"30 de março",
+  "theme_date":"mr king",
   "theme_size":"1,2 MB",
   "theme_preview_1":"https://telegra.ph/file/4f2ce22beab98544fb378.jpg",
   "theme_preview_2":"https://telegra.ph/file/6e6bb0c268edb97dbd73e.jpg",
