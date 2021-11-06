@@ -13,9 +13,9 @@
 },
 {
   "theme_server":"Ljaguar",
-  "theme_name":"Sexy 02",
+  "theme_name":"king 2",
   "theme_user":"Gean",
-  "theme_date":"30 de março",
+  "theme_date":"king mods",
   "theme_size":"1,0 MB",
   "theme_preview_1":"https://telegra.ph/file/0010240898f244dc8a423.jpg",
   "theme_preview_2":"https://telegra.ph/file/8e7994840ef50baf9713d.jpg",
