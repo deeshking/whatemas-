@@ -1,5 +1,4 @@
 [
-},
 {
   "theme_server":"Ljaguar",
   "theme_name":"Sexy 01",
