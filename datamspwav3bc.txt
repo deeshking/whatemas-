@@ -2,7 +2,7 @@
 },
 {
   "theme_server":"Ljaguar",
-  "theme_name":"Sexy 03",
+  "theme_name":"Sexy 01",
   "theme_user":"Gean",
   "theme_date":"30 ᴍʀ ᴋɪɴɢ ᴍᴏᴅᴢ",
   "theme_size":"1,2 MB",
